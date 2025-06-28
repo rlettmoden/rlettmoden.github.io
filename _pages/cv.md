@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Technische Universität Braunschweig, 2025
+* B.S. in Computer Science, Technische Universität Braunschweig, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Student Assistant  
+  * Institute for Information Systems, Brunswick  
+  * Duties included: Extending a speech recognition API and developing an Android app prototype to improve children's pronunciation  
+* Spring 2022: Internship & Bachelor's Thesis  
+  * Robert Bosch GmbH, Hildesheim  
+  * Duties included: Implementing a patch sampling framework using PyTorch to train style-transfer GANs for domain adaptation  
+* Summer 2021: Student Assistant  
+  * Institute of Space Systems, Brunswick  
+  * Duties included: Building a cross-platform graphics engine using Vulkan and OpenGL to simulate space debris with compute shaders  
+* Spring 2019: Working Student  
+  * Brunel Car Synergies GmbH, Hildesheim  
+  * Duties included: Programming STM32 microcontrollers in C and developing user interfaces for embedded hardware  
   
 Skills
 ======
@@ -46,19 +43,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
